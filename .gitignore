@@ -1,2 +1,15 @@
 .DS_Store
 .pdf
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+env/
+venv/
+.idea/
+.vscode/
+*.log
+*.sqlite3
+node_modules/
+dist/
+build/
+*.env       
