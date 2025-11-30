@@ -1,0 +1,97 @@
+pair_id,metric,n_overlap,pearson,spearman
+PAIR001,Spotify Streams (Weekly Changes),123,0.794,0.754
+PAIR001,YouTube Likes (Weekly Changes),126,0.912,0.763
+PAIR001,YouTube Views (Weekly Changes),126,0.662,0.841
+PAIR001,levels_spotify_popularity,856,0.684,0.803
+PAIR002,Spotify Streams (Weekly Changes),361,0.73,0.77
+PAIR002,YouTube Likes (Weekly Changes),347,0.539,0.67
+PAIR002,YouTube Views (Weekly Changes),347,0.585,0.638
+PAIR002,levels_spotify_popularity,1650,0.803,0.832
+PAIR003,Spotify Streams (Weekly Changes),157,-0.243,-0.713
+PAIR003,YouTube Likes (Weekly Changes),0,,
+PAIR003,levels_spotify_popularity,432,,
+PAIR004,Spotify Streams (Weekly Changes),384,0.821,0.903
+PAIR004,YouTube Likes (Weekly Changes),347,0.359,0.663
+PAIR004,YouTube Views (Weekly Changes),340,0.317,0.243
+PAIR004,levels_spotify_popularity,2230,0.953,0.959
+PAIR005,Spotify Streams (Weekly Changes),56,0.26,0.362
+PAIR005,YouTube Likes (Weekly Changes),53,0.184,0.184
+PAIR005,YouTube Views (Weekly Changes),53,0.229,0.318
+PAIR005,levels_spotify_popularity,382,0.144,0.294
+PAIR006,Spotify Streams (Weekly Changes),144,-0.395,-0.753
+PAIR006,YouTube Likes (Weekly Changes),0,,
+PAIR006,YouTube Views (Weekly Changes),144,0.023,-0.007
+PAIR006,levels_spotify_popularity,999,-0.291,-0.338
+PAIR007,Spotify Streams (Weekly Changes),83,0.326,-0.495
+PAIR007,YouTube Likes (Weekly Changes),97,0.012,0.154
+PAIR007,YouTube Views (Weekly Changes),105,0.03,0.342
+PAIR007,levels_spotify_popularity,506,0.779,0.621
+PAIR008,Spotify Streams (Weekly Changes),148,-0.407,-0.576
+PAIR008,YouTube Likes (Weekly Changes),151,0.458,0.581
+PAIR008,YouTube Views (Weekly Changes),151,0.761,0.583
+PAIR008,levels_spotify_popularity,1212,-0.16,-0.168
+PAIR009,Spotify Streams (Weekly Changes),168,0.254,0.122
+PAIR009,YouTube Likes (Weekly Changes),168,0.053,0.402
+PAIR009,YouTube Views (Weekly Changes),168,-0.005,0.276
+PAIR009,levels_spotify_popularity,815,0.416,0.368
+PAIR010,Spotify Streams (Weekly Changes),383,0.587,0.739
+PAIR010,YouTube Likes (Weekly Changes),0,,
+PAIR010,YouTube Views (Weekly Changes),108,0.166,0.012
+PAIR010,levels_spotify_popularity,2117,0.76,0.46
+PAIR011,Spotify Streams (Weekly Changes),473,0.32,0.077
+PAIR011,YouTube Likes (Weekly Changes),344,0.071,0.254
+PAIR011,YouTube Views (Weekly Changes),474,0.119,-0.09
+PAIR011,levels_spotify_popularity,2916,0.819,0.844
+PAIR012,Spotify Streams (Weekly Changes),175,-0.117,-0.157
+PAIR012,YouTube Likes (Weekly Changes),141,0.763,0.697
+PAIR012,YouTube Views (Weekly Changes),175,-0.042,-0.126
+PAIR012,levels_spotify_popularity,915,0.751,0.752
+PAIR013,Spotify Streams (Weekly Changes),58,-0.28,-0.497
+PAIR013,YouTube Likes (Weekly Changes),41,0.343,0.504
+PAIR013,YouTube Views (Weekly Changes),55,-0.239,-0.234
+PAIR013,levels_spotify_popularity,394,-0.216,-0.333
+PAIR014,Spotify Streams (Weekly Changes),96,0.363,0.561
+PAIR014,YouTube Likes (Weekly Changes),93,-0.031,-0.16
+PAIR014,YouTube Views (Weekly Changes),94,-0.268,-0.248
+PAIR014,levels_spotify_popularity,662,-0.758,-0.47
+PAIR015,Spotify Streams (Weekly Changes),216,0.505,0.73
+PAIR015,YouTube Likes (Weekly Changes),125,-0.089,-0.117
+PAIR015,YouTube Views (Weekly Changes),208,0.073,0.5
+PAIR015,levels_spotify_popularity,1433,0.814,0.807
+PAIR016,Spotify Streams (Weekly Changes),227,0.441,0.869
+PAIR016,YouTube Likes (Weekly Changes),116,0.246,0.578
+PAIR016,YouTube Views (Weekly Changes),217,-0.013,0.9
+PAIR016,levels_spotify_popularity,1544,0.86,0.94
+PAIR017,Spotify Streams (Weekly Changes),332,-0.457,-0.769
+PAIR017,YouTube Likes (Weekly Changes),0,,
+PAIR017,levels_spotify_popularity,510,0.862,0.839
+PAIR018,Spotify Streams (Weekly Changes),176,-0.1,-0.031
+PAIR018,YouTube Likes (Weekly Changes),135,0.938,0.86
+PAIR018,YouTube Views (Weekly Changes),176,0.003,0.599
+PAIR018,levels_spotify_popularity,1210,0.618,0.466
+PAIR019,Spotify Streams (Weekly Changes),162,-0.391,-0.133
+PAIR019,YouTube Likes (Weekly Changes),133,0.876,0.729
+PAIR019,YouTube Views (Weekly Changes),165,0.045,0.164
+PAIR019,levels_spotify_popularity,1108,0.856,0.811
+PAIR020,Spotify Streams (Weekly Changes),123,-0.545,-0.603
+PAIR020,YouTube Likes (Weekly Changes),21,,
+PAIR020,YouTube Views (Weekly Changes),103,-0.715,-0.711
+PAIR020,levels_spotify_popularity,864,0.302,0.629
+PAIR021,Spotify Streams (Weekly Changes),10,0.424,0.96
+PAIR021,YouTube Likes (Weekly Changes),0,,
+PAIR021,levels_spotify_popularity,60,0.723,0.885
+PAIR022,Spotify Streams (Weekly Changes),159,-0.737,-0.638
+PAIR022,YouTube Likes (Weekly Changes),159,0.269,0.579
+PAIR022,YouTube Views (Weekly Changes),159,0.203,0.799
+PAIR022,levels_spotify_popularity,1110,0.484,0.813
+PAIR023,Spotify Streams (Weekly Changes),298,-0.523,-0.918
+PAIR023,YouTube Likes (Weekly Changes),0,,
+PAIR023,levels_spotify_popularity,825,-0.663,-0.393
+PAIR024,Spotify Streams (Weekly Changes),43,-0.038,-0.245
+PAIR024,YouTube Likes (Weekly Changes),43,0.34,0.643
+PAIR024,YouTube Views (Weekly Changes),43,0.434,0.554
+PAIR024,levels_spotify_popularity,294,0.3,0.439
+PAIR025,Spotify Streams (Weekly Changes),51,0.231,0.264
+PAIR025,YouTube Likes (Weekly Changes),49,0.113,0.107
+PAIR025,YouTube Views (Weekly Changes),51,-0.041,-0.1
+PAIR025,levels_spotify_popularity,350,0.083,-0.003

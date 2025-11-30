@@ -1,0 +1,5 @@
+pair_id,metric,n_overlap,pearson,spearman
+PAIR007,levels_spotify_popularity,506,0.779,0.621
+PAIR007,Spotify Streams (Weekly Changes),83,0.326,-0.495
+PAIR007,YouTube Views (Weekly Changes),105,0.03,0.342
+PAIR007,YouTube Likes (Weekly Changes),97,0.012,0.154
