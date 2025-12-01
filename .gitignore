@@ -13,5 +13,4 @@ node_modules/
 dist/
 build/
 *.env       
-backup_notebooks/
-backup_visualizations/
+backup/
