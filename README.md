@@ -1,0 +1,2 @@
+All code, data, and analysis for my NYU Senior Project are hosted here. 
+The work, developed with research support from Prof. Mayya (NYU Stern), studies copyright and visibilty dynamics across Indian music streaming.
